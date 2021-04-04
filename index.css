@@ -1,0 +1,25 @@
+.heading-section{
+    height: 500px;
+}
+.navbar{
+    position: sticky;
+    
+}
+.product{
+    margin-top: 100px;
+    
+}
+.card{
+    height: 450px;
+    width: 200px;
+}
+.card img{
+    height: 200px;
+    width: 100%;
+    
+}
+.train:hover{
+    transform: translateX(-20);
+    transition-property: all;
+    width: 1000px;
+}
